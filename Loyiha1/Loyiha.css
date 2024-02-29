@@ -1,0 +1,194 @@
+@media (min-width:1400px) {
+  body {
+      max-width: 100%;
+  }
+}
+
+.icons__color-bluee {
+    color: blue;
+}
+
+
+.ex2 {
+    height: 37.5rem;  
+    overflow-y: hidden;
+}
+
+.container__bacgraund-color {
+  background-color: #f5f5f5;
+  border-bottom: 1px solid #ddd;
+  height: auto;
+  width: 100%;
+}
+
+.width1 {
+  width: 100%;
+}
+
+.height__auto {
+  height: auto;
+}
+
+  
+
+h1, h2, h3, h4, h5, h6, 
+p {
+    font-family: 'Montserrat';
+}
+
+.background-color__imge {
+  background-image: url(/image/photo_2023-09-26_09-07-20\ \(2\).jpg);
+  height: 22rem;
+  color: white;
+}
+
+.margin-top__text {
+  margin-top: 5%;
+}
+
+.margin-top__text2 {
+  margin-top: 5%;
+
+}
+
+
+.row__text p {
+  color: #555555;
+  font-size: 16px;
+}
+
+
+
+.margin-top__text2 {
+  margin-top: 10%;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+
+
+
+
+
+.text-fontsayz p{
+  font-size: 14px;
+}
+
+.margin-top__text33 {
+  margin-top: 5%;
+}
+
+
+
+* {box-sizing: border-box;}
+
+.text__hover {
+  position: relative;
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+
+.margin__botom {
+  color: blue;
+}
+
+
+
+.margin__botom a:hover {
+  color: rgb(137, 37, 37);
+}
+
+
+.width__butoon {
+  background-color: #5cb85c;
+}
+
+.width__butoon:hover {
+  background-color: #388a38;
+}
+
+
+.border_radius {
+  border-radius: 50%;
+  width: 5rem;
+  height: 5rem;
+}
+
+.width__hayt {
+  color: white;
+  border-bottom: none;
+}
+
+.width__hayt p {
+  font-size: 12px;
+}
+
+.text__font-familiy {
+  font-family: "Lato";
+  font-weight: 300;
+  font-size: 16px;
+  color: #555;
+}
+
+.border_radius11 {
+  border-radius: 0px;
+  border: none;
+}
+
+.background-color__11 {
+  background-color: #f2f2f2;
+}
+
+.font__sayiz p{
+  color: white;    
+  font-size: 25px;
+}
+
+
+
+/* rasm hover */
+.box3 {
+  overflow: hidden;
+  position: relative;
+
+}
+.box-2 img {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  transition: all 0.3s linear ;
+}
+
+.box2 {
+  background-color: #3498db;
+  color: white;
+  height: 50px;
+  width: 100%;
+  position: absolute;
+  bottom:-50px;
+  transition: all 0.3s linear;
+  
+
+}
+
+.box3:hover img{    
+transform: translate(0px,-30px);
+transition: all 0.3s linear;
+
+}
+.box3:hover .box2{
+  position: absolute;
+  bottom: 0px;
+  transition: all 0.3s linear;
+}
+
+.margin-top1111 {
+  margin-top: 3%;
+}
+/* /rasm hover */

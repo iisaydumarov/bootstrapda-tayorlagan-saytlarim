@@ -1,0 +1,316 @@
+.container {
+    width: 80%;
+}
+
+.rasmbilan-pastka {
+    margin-top: 50px;
+}
+
+.rasmbilan-pastka img {
+    margin-top: 160px;
+
+}
+
+.rasmbilan-pastka2 {
+    position: absolute;
+}
+
+.advanture {
+    height: 300px;
+    background-color: #f42d59;
+    color: white;
+    z-index: 2;
+    margin-top: 100px;
+
+}
+
+
+
+.advanture-joy {
+    width: 500px;
+}
+
+.advanture h1 {
+    margin-left: 15px;
+    font-size: 60px;
+}
+
+.advanture-img {
+    z-index: 1;
+    margin-bottom: 100px;
+}
+
+.bosh-joy-tashlash1 {
+    height: 100px;
+}
+
+.bosh-joy-tashlash2 {
+    height: 170px;
+}
+
+
+
+.bosh-joy-tashlash3 {
+    height: 220px;
+    width: 100%;
+    background-color: #ffffff;
+    margin-top: 1000px;
+    position: absolute;
+
+}
+
+
+.koring {
+    width: 270px;
+    height: 400px;
+    background-color: white;
+    display: inline-block;
+    box-shadow: 0px 1px 1px 0px rgba(108, 100, 133, 0.808);
+    z-index: 2;
+}
+
+
+
+.koring h4 {
+    color: #33353f;
+    font-size: 20px;
+}
+
+.koring p {
+    color: #2d2f36;
+    height: 10px;
+    font-size: 18px;
+}
+
+.border {
+    background-color: #ff214f;
+    color: white;
+    border-radius: 50%;
+    width: 85px;
+    height: 85px;
+    margin-left: 100px;
+    margin-top: 30px;
+    transition: all 0.4s ease 0s;
+
+}
+
+.koring:hover .border {
+    background-color: #0a25d3;
+    transform: rotate(360deg);
+
+}
+
+.border i {
+    border-radius: 50%;
+
+}
+
+.koring1 i {
+    margin-top: 25px;
+}
+
+
+
+
+
+.koring2 i {
+    margin-top: 25px;
+}
+
+
+
+.koring3 i {
+    margin-top: 25px;
+}
+
+
+.koring4 i {
+    margin-top: 25px;
+    transition: all 0.4s ease 0s;
+}
+
+.koring {
+    text-align: center;
+    vertical-align: middle;
+    transition: all 0.4s ease 0s;
+    border-radius: 10px;
+}
+
+.koring:hover {
+    transform: scale(1.1);
+    box-shadow: 0px 15px 25px rgb(5 54 77 / 15%);
+
+
+}
+
+.koringhover:hover {
+    transform: scale(1.1);
+    box-shadow: 0px 15px 25px rgb(5 54 77 / 15%);
+
+}
+
+
+.koring:hover .iconkauchun {
+    background-color: #0a25d3;
+    color: #ff214f;
+    transform: rotate(360deg);
+    transition: all 0.4s ease 0.4s;
+}
+
+
+
+.koring:hover i {
+    color: #c00cc3;
+}
+
+
+.kompuyuter-rasm {
+    width: 101%;
+    background-color: #f0eeef;
+    margin-left: -0.5%;
+    margin-top: 300px;
+}
+
+
+
+
+
+.rasm-kuchuk img {
+    height: 570px;
+}
+
+
+.rasm-kuchuk2 {
+    height: 330px;
+}
+
+.text-kuchukchahaqida p {
+    font-weight: bold;
+    font-size: 23px;
+    height: 320px;
+}
+
+.kuchukcha-text p {
+    font-weight: bold;
+    height: 350px;
+}
+
+.kuchukcha-text2 {
+    font-weight: 200;
+}
+
+.moshinarasmi {
+    height: 130px;
+}
+
+.moshina-yonidatext h4 {
+    font-weight: 100;
+    height: 50px;
+}
+
+
+.moshina-yonidatext h1 {
+    font-weight: bold;
+    color: #000000;
+}
+
+.moshina-yonidatext p {
+    font-size: 20px;
+
+}
+
+.text-ikinchi h1 {
+    color: #000000;
+    font-weight: bold;
+}
+
+
+.text-margin-bo {
+    font-size: 20px;
+}
+
+.rasm-border-radius {
+    border-radius: 50%;
+    z-index: 3;
+
+}
+
+
+
+
+.malumotuchun-qut {
+    height: 600px;
+    background-color: white;
+    transition: all 0.7s ease 0s;
+    border: 1px solid #000000;
+}
+
+
+
+
+.soorovlar h1 {
+    color: #000000;
+
+    font-weight: bold;
+    margin-left: 60px;
+    transition: all 0.15s ease 0s;
+}
+
+
+
+
+
+.soorovlar button {
+    width: 400;
+    height: 50px;
+    margin-left: 35px;
+    border-radius: 0%;
+    color: rgb(8, 7, 7);
+    cursor: pointer;
+    font-size: 20px;
+
+}
+
+
+.u-form-agree a {
+    text-decoration: none;
+    color: rgb(233, 175, 112);
+    font-size: 18px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.text-color {
+    color: white;
+}
+
+
+
+
+.hover1:hover {
+    text-decoration: none;
+    color: #918f8f;
+}
+
+.hover2:hover {
+    color: #918f8f;
+    text-decoration: none;
+}
+
+.ulanishlar2 a {
+    color: rgb(196, 141, 121);
+}
+
+.ulanishlar2 p {
+    color: white;
+}
